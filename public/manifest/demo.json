@@ -2,7 +2,7 @@
   "v1": [
     {
       "country_code": "IN",
-      "endpoint": "https://api-demo.simple.org/api/",
+      "endpoint": "https://api-demo.simple.org/api/test",
       "display_name": "India",
       "isd_code": "91"
     },
